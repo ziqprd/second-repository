@@ -6,9 +6,9 @@
 
 **Технологии**
 
- - python 3
- - pygame
- - json
+ - Python 3
+ - Pygame
+ - JSON
 
 **Функционал**
 
